@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DOTNET-course\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DOTNET-course\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:13:26.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
