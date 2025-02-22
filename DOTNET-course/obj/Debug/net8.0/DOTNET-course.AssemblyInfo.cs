@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOTNET-course")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54401198a125ff709036e47f6df955e44499ac6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+197135601a2368f4dcae6c19956af21ead9c1e22")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOTNET-course")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOTNET-course")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

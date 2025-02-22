@@ -1,0 +1,12 @@
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\bin\Debug\net8.0\DOTNET-course.Models.deps.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\bin\Debug\net8.0\DOTNET-course.Models.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\bin\Debug\net8.0\DOTNET-course.Models.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.AssemblyInfoInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.AssemblyInfo.cs
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.csproj.CoreCompileInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.sourcelink.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\refint\DOTNET-course.Models.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\ref\DOTNET-course.Models.dll

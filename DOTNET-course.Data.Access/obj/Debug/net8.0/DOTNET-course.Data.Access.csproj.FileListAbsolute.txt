@@ -1,0 +1,16 @@
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\bin\Debug\net8.0\DOTNET-course.Data.Access.deps.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\bin\Debug\net8.0\DOTNET-course.Data.Access.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\bin\Debug\net8.0\DOTNET-course.Data.Access.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\bin\Debug\net8.0\DOTNET-course.Models.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\bin\Debug\net8.0\DOTNET-course.Models.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.csproj.AssemblyReference.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.AssemblyInfoInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.AssemblyInfo.cs
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.sourcelink.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-c.BAAD794C.Up2Date
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\refint\DOTNET-course.Data.Access.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\DOTNET-course.Data.Access.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Data.Access\obj\Debug\net8.0\ref\DOTNET-course.Data.Access.dll
