@@ -25,7 +25,7 @@ namespace DOTNET_course.Areas.Admin.Controllers
         public IActionResult Index()
         {
             List<Product> objCategoryList = _unitOfWork.ProductRepository.
-                GetAll(IncludeProperties:"Category").ToList();
+                GetAll(includeProperties:"Category").ToList();
             
              
             return View(objCategoryList);
@@ -153,7 +153,7 @@ namespace DOTNET_course.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<Product> objProductList = _unitOfWork.ProductRepository.GetAll(IncludeProperties: "Category").ToList();
+            List<Product> objProductList = _unitOfWork.ProductRepository.GetAll(includeProperties: "Category").ToList();
             return Json(new { data = objProductList });
         }
 

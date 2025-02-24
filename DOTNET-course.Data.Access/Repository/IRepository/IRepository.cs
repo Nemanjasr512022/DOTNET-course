@@ -11,7 +11,7 @@ namespace DOTNET_course.Data.Access.Repository.IRepository
     public interface IRepository<T> where T : class
     {
         //T - Category
-        IEnumerable<T> GetAll(string? IncludeProperties = null);
+        IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter = null, string? includeProperties = null);
         T Get(Expression<Func<T, bool>> filter, string? IncludeProperties = null);
         void Add(T entity);
         void Remove(T entity);

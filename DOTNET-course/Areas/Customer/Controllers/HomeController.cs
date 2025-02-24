@@ -1,7 +1,9 @@
 using System.Diagnostics;
+using System.Security.Claims;
 using DOTNET_course.Data.Access.Repository.IRepository;
 using DOTNET_course.Models;
 using DOTNET_course.Models.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DOTNET_course.Areas.Customer.Controllers
@@ -21,14 +23,43 @@ namespace DOTNET_course.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<Product> productList = _unitOfWork.ProductRepository.GetAll(IncludeProperties: "Category");
+            IEnumerable<Product> productList = _unitOfWork.ProductRepository.GetAll(includeProperties: "Category");
             return View(productList);
         }
 
         public IActionResult Details(int productId)
         {
-            Product product = _unitOfWork.ProductRepository.Get(u => u.Id == productId, IncludeProperties: "Category");
-            return View(product);
+            ShoppingCart shoppingCart = new()
+            {
+                Count = 1,
+                 Product = _unitOfWork.ProductRepository.Get(u => u.Id == productId, IncludeProperties: "Category"),
+                 ProductId = productId
+
+            };
+            
+            return View(shoppingCart);
+        }
+        [HttpPost]
+        [Authorize]
+        public IActionResult Details(ShoppingCart shoppingCart)
+        {
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+            shoppingCart.ApplicationUserId = userId;
+            ShoppingCart cartFromDb = _unitOfWork.ShoppingCart.Get(u => u.ApplicationUserId == userId 
+            && u.ProductId == shoppingCart.ProductId);
+            if (cartFromDb == null)
+            {
+                _unitOfWork.ShoppingCart.Add(shoppingCart);
+            }
+            else
+            {
+                cartFromDb.Count += shoppingCart.Count;
+                _unitOfWork.ShoppingCart.Update(cartFromDb);
+            }
+            TempData["succes"] = "Cart Updated Succesfully";
+            _unitOfWork.Save();
+            return RedirectToAction(nameof(Index));
         }
 
 

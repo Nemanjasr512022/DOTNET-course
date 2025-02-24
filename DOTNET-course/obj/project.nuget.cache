@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9Si6KECT6WY=",
+  "dgSpecHash": "CouOZbzOQnQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\DOTNET-course.csproj",
   "expectedPackageFiles": [
@@ -161,6 +161,7 @@
     "C:\\Users\\nluki\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\nluki\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\nluki\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\nluki\\.nuget\\packages\\stripe.net\\41.9.0\\stripe.net.41.9.0.nupkg.sha512",
     "C:\\Users\\nluki\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
     "C:\\Users\\nluki\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\nluki\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",

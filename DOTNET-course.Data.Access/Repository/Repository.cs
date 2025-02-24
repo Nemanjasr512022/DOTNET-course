@@ -29,19 +29,22 @@ namespace DOTNET_course.Data.Access.Repository
             dbSet.Add(entity);
         }
 
-        public IEnumerable<T> GetAll(string? IncludeProperties = null)
+        public IEnumerable<T> GetAll(Expression<Func<T, bool>>? filter, string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
-            if (!string.IsNullOrEmpty(IncludeProperties))
+            if (filter != null)
             {
-                foreach (var property in IncludeProperties
+                query = query.Where(filter);
+            }
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProp in includeProperties
                     .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    query = query.Include(property);
+                    query = query.Include(includeProp);
                 }
             }
-            return query.ToList(); 
-
+            return query.ToList();
         }
 
         public T Get(Expression<Func<T, bool>> filter, string? IncludeProperties = null)

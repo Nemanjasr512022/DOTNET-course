@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\Fallen-Angel.jpg",
+      "PackagePath": "staticwebassets\\images\\Fallen-Angel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\Screenshot 2025-02-24 163250.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2025-02-24 163250.png"
+    },
+    {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\102f89f6-2376-497c-8a3e-2c6c4d7bfe0d.jpg",
       "PackagePath": "staticwebassets\\images\\product\\102f89f6-2376-497c-8a3e-2c6c4d7bfe0d.jpg"
     },
@@ -41,10 +57,6 @@
       "PackagePath": "staticwebassets\\images\\product\\745a8aff-b709-4927-8963-03c999462d41.jpg"
     },
     {
-      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\7863e2cb-d995-4f4f-b53a-f89dcc9f2958.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\7863e2cb-d995-4f4f-b53a-f89dcc9f2958.jpg"
-    },
-    {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
       "PackagePath": "staticwebassets\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg"
     },
@@ -55,6 +67,10 @@
     {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\a9507bf1-8141-4144-83cc-8d3abb1ae7c7.jpg",
       "PackagePath": "staticwebassets\\images\\product\\a9507bf1-8141-4144-83cc-8d3abb1ae7c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\b7b88cfa-c54c-4c4e-98dc-0b13d576113e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b7b88cfa-c54c-4c4e-98dc-0b13d576113e.jpg"
     },
     {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\b9fd57e5-ad9c-4031-8ddd-8bd02c8db00d.jpg",

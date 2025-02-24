@@ -329,3 +329,4 @@ C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course\bin\Debug\net8.0\runtime
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course\bin\Debug\net8.0\DOTNET-course.Utility.dll
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course\bin\Debug\net8.0\DOTNET-course.Utility.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course\bin\Debug\net8.0\Stripe.net.dll
