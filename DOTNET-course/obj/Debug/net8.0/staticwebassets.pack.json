@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\20773116421684486149-128.png",
+      "PackagePath": "staticwebassets\\images\\20773116421684486149-128.png"
+    },
+    {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\Fallen-Angel.jpg",
       "PackagePath": "staticwebassets\\images\\Fallen-Angel.jpg"
     },
@@ -57,8 +61,8 @@
       "PackagePath": "staticwebassets\\images\\product\\745a8aff-b709-4927-8963-03c999462d41.jpg"
     },
     {
-      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg"
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg"
     },
     {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\8b5c19d7-baa6-4ae0-aab9-f0a2733de339.jpg",
@@ -79,6 +83,10 @@
     {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\Company.js",
       "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\Order.js",
+      "PackagePath": "staticwebassets\\js\\Order.js"
     },
     {
       "Id": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\product.js",

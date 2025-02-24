@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Cx2o2zDH37UTp0kfz9fVKfIZCU5jNyOezaLFIFftiBE=",
+  "Hash": "Rtq8wfOOuXFW7xFV7PgPx1vGaLjyfB7IpnhshynGzNI=",
   "Source": "DOTNET-course",
   "BasePath": "_content/DOTNET-course",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oks7cw4qa9",
-      "Integrity": "aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA=",
+      "Fingerprint": "gd2qz0z3ww",
+      "Integrity": "fH4CyKhHhni6TJcND541H6BjjxI0LE1TgjzVUNKn17w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\20773116421684486149-128.png",
+      "SourceId": "DOTNET-course",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\",
+      "BasePath": "_content/DOTNET-course",
+      "RelativePath": "images/20773116421684486149-128#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4c1y5njn6v",
+      "Integrity": "vPOao43gU+TNO22sriizshd8mWqhsTHlIFykISAi3nk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20773116421684486149-128.png"
     },
     {
       "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\book.png",
@@ -1571,12 +1592,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\745a8aff-b709-4927-8963-03c999462d41.jpg"
     },
     {
-      "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
+      "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg",
       "SourceId": "DOTNET-course",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\",
       "BasePath": "_content/DOTNET-course",
-      "RelativePath": "images/product/82bb348f-1e34-48f2-9e80-f785e28c9547#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/product/828f1985-a582-400e-b5ac-ed8ab11cfd8d#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1585,11 +1606,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dr8azbju9f",
-      "Integrity": "2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ=",
+      "Fingerprint": "d1qonkoskl",
+      "Integrity": "L59bDbk1BTTxmoKPgXdSCJ2mpZKbq/blf/Lu1NIZipA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg"
     },
     {
       "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\8b5c19d7-baa6-4ae0-aab9-f0a2733de339.jpg",
@@ -1716,6 +1737,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Company.js"
+    },
+    {
+      "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\Order.js",
+      "SourceId": "DOTNET-course",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\",
+      "BasePath": "_content/DOTNET-course",
+      "RelativePath": "js/Order#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iyaclie78a",
+      "Integrity": "huDGupZ/0rOEuoCvlBWbqjEBbIfs0RZahBazNH1HyBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Order.js"
     },
     {
       "Identity": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\product.js",
@@ -2969,7 +3011,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12056"
+          "Value": "315548"
         },
         {
           "Name": "Content-Type",
@@ -2977,11 +3019,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA=\""
+          "Value": "\"fH4CyKhHhni6TJcND541H6BjjxI0LE1TgjzVUNKn17w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 23:04:00 GMT"
+          "Value": "Mon, 24 Feb 2025 21:37:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2991,12 +3033,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA="
+          "Value": "sha256-fH4CyKhHhni6TJcND541H6BjjxI0LE1TgjzVUNKn17w="
         }
       ]
     },
     {
-      "Route": "css/site.oks7cw4qa9.css",
+      "Route": "css/site.gd2qz0z3ww.css",
       "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3006,7 +3048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12056"
+          "Value": "315548"
         },
         {
           "Name": "Content-Type",
@@ -3014,11 +3056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA=\""
+          "Value": "\"fH4CyKhHhni6TJcND541H6BjjxI0LE1TgjzVUNKn17w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 23:04:00 GMT"
+          "Value": "Mon, 24 Feb 2025 21:37:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3028,7 +3070,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oks7cw4qa9"
+          "Value": "gd2qz0z3ww"
         },
         {
           "Name": "label",
@@ -3036,7 +3078,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA="
+          "Value": "sha256-fH4CyKhHhni6TJcND541H6BjjxI0LE1TgjzVUNKn17w="
         }
       ]
     },
@@ -5507,6 +5549,88 @@
       ]
     },
     {
+      "Route": "images/20773116421684486149-128.4c1y5njn6v.png",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\20773116421684486149-128.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPOao43gU+TNO22sriizshd8mWqhsTHlIFykISAi3nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 21:42:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4c1y5njn6v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/20773116421684486149-128.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPOao43gU+TNO22sriizshd8mWqhsTHlIFykISAi3nk="
+        }
+      ]
+    },
+    {
+      "Route": "images/20773116421684486149-128.png",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\20773116421684486149-128.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vPOao43gU+TNO22sriizshd8mWqhsTHlIFykISAi3nk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 21:42:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vPOao43gU+TNO22sriizshd8mWqhsTHlIFykISAi3nk="
+        }
+      ]
+    },
+    {
       "Route": "images/book.png",
       "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\book.png",
       "Selectors": [],
@@ -6327,8 +6451,8 @@
       ]
     },
     {
-      "Route": "images/product/82bb348f-1e34-48f2-9e80-f785e28c9547.dr8azbju9f.jpg",
-      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
+      "Route": "images/product/828f1985-a582-400e-b5ac-ed8ab11cfd8d.d1qonkoskl.jpg",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6337,7 +6461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "92328"
+          "Value": "421421"
         },
         {
           "Name": "Content-Type",
@@ -6345,11 +6469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ=\""
+          "Value": "\"L59bDbk1BTTxmoKPgXdSCJ2mpZKbq/blf/Lu1NIZipA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 22:59:26 GMT"
+          "Value": "Mon, 24 Feb 2025 15:37:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6359,21 +6483,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dr8azbju9f"
+          "Value": "d1qonkoskl"
         },
         {
           "Name": "label",
-          "Value": "images/product/82bb348f-1e34-48f2-9e80-f785e28c9547.jpg"
+          "Value": "images/product/828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ="
+          "Value": "sha256-L59bDbk1BTTxmoKPgXdSCJ2mpZKbq/blf/Lu1NIZipA="
         }
       ]
     },
     {
-      "Route": "images/product/82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
-      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg",
+      "Route": "images/product/828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\images\\product\\828f1985-a582-400e-b5ac-ed8ab11cfd8d.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6382,7 +6506,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "92328"
+          "Value": "421421"
         },
         {
           "Name": "Content-Type",
@@ -6390,11 +6514,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ=\""
+          "Value": "\"L59bDbk1BTTxmoKPgXdSCJ2mpZKbq/blf/Lu1NIZipA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 23 Feb 2025 22:59:26 GMT"
+          "Value": "Mon, 24 Feb 2025 15:37:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6404,7 +6528,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ="
+          "Value": "sha256-L59bDbk1BTTxmoKPgXdSCJ2mpZKbq/blf/Lu1NIZipA="
         }
       ]
     },
@@ -6897,6 +7021,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-8Z6pWxtAq81VY2biyLZ31yzAbagcMVLqVMH6xZB8A9o="
+        }
+      ]
+    },
+    {
+      "Route": "js/Order.iyaclie78a.js",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\Order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huDGupZ/0rOEuoCvlBWbqjEBbIfs0RZahBazNH1HyBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 20:24:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyaclie78a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Order.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-huDGupZ/0rOEuoCvlBWbqjEBbIfs0RZahBazNH1HyBQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/Order.js",
+      "AssetFile": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\js\\Order.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huDGupZ/0rOEuoCvlBWbqjEBbIfs0RZahBazNH1HyBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 20:24:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-huDGupZ/0rOEuoCvlBWbqjEBbIfs0RZahBazNH1HyBQ="
         }
       ]
     },

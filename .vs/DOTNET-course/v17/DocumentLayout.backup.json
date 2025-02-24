@@ -3,26 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589F1EB9-D93C-4E93-8B1C-961BD3005BFB}|DOTNET-course.Data.Access\\DOTNET-course.Data.Access.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course.data.access\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589F1EB9-D93C-4E93-8B1C-961BD3005BFB}|DOTNET-course.Data.Access\\DOTNET-course.Data.Access.csproj|solutionrelative:dotnet-course.data.access\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,16 +11,8 @@
       "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70A6F68B-FB36-415B-9F85-4E786E136639}|DOTNET-course.Models\\DOTNET-course.Models.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course.models\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70A6F68B-FB36-415B-9F85-4E786E136639}|DOTNET-course.Models\\DOTNET-course.Models.csproj|solutionrelative:dotnet-course.models\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A6F68B-FB36-415B-9F85-4E786E136639}|DOTNET-course.Models\\DOTNET-course.Models.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70A6F68B-FB36-415B-9F85-4E786E136639}|DOTNET-course.Models\\DOTNET-course.Models.csproj|solutionrelative:dotnet-course.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589F1EB9-D93C-4E93-8B1C-961BD3005BFB}|DOTNET-course.Data.Access\\DOTNET-course.Data.Access.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course.data.access\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589F1EB9-D93C-4E93-8B1C-961BD3005BFB}|DOTNET-course.Data.Access\\DOTNET-course.Data.Access.csproj|solutionrelative:dotnet-course.data.access\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|c:\\users\\nluki\\source\\repos\\dotnet-course\\dotnet-course\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E5E1BA5-AE8E-4807-B6A7-40BEE50337C7}|DOTNET-course\\DOTNET-course.csproj|solutionrelative:dotnet-course\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,135 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DOTNET-course\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DOTNET-course\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "DOTNET-course\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "DOTNET-course\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T15:28:54.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "DOTNET-course\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "DOTNET-course\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T15:28:47.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "DOTNET-course\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "DOTNET-course\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T15:28:27.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "DOTNET-course\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "DOTNET-course\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T14:40:31.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
-              "RelativeDocumentMoniker": "DOTNET-course\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
-              "RelativeToolTip": "DOTNET-course\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T14:40:23.086Z",
+              "WhenOpened": "2025-02-24T21:29:09.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DOTNET-course\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DOTNET-course\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:40:16.635Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DOTNET-course\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DOTNET-course\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T21:08:15.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShoppingCartVm.cs",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Models\\ViewModels\\ShoppingCartVm.cs",
-              "RelativeDocumentMoniker": "DOTNET-course.Models\\ViewModels\\ShoppingCartVm.cs",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Models\\ViewModels\\ShoppingCartVm.cs",
-              "RelativeToolTip": "DOTNET-course.Models\\ViewModels\\ShoppingCartVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:37:44.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderHeader.cs",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Models\\Models\\OrderHeader.cs",
-              "RelativeDocumentMoniker": "DOTNET-course.Models\\Models\\OrderHeader.cs",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Models\\Models\\OrderHeader.cs",
-              "RelativeToolTip": "DOTNET-course.Models\\Models\\OrderHeader.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAApwCEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:34:04.08Z",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DOTNET-course\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DOTNET-course\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T20:55:28.016Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IOrderHeaderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Data.Access\\Repository\\IRepository\\IOrderHeaderRepository.cs",
-              "RelativeDocumentMoniker": "DOTNET-course.Data.Access\\Repository\\IRepository\\IOrderHeaderRepository.cs",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Data.Access\\Repository\\IRepository\\IOrderHeaderRepository.cs",
-              "RelativeToolTip": "DOTNET-course.Data.Access\\Repository\\IRepository\\IOrderHeaderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:31:56.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderHeaderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Data.Access\\Repository\\OrderHeaderRepository.cs",
-              "RelativeDocumentMoniker": "DOTNET-course.Data.Access\\Repository\\OrderHeaderRepository.cs",
-              "ToolTip": "C:\\Users\\nluki\\source\\repos\\DOTNET-course\\DOTNET-course.Data.Access\\Repository\\OrderHeaderRepository.cs",
-              "RelativeToolTip": "DOTNET-course.Data.Access\\Repository\\OrderHeaderRepository.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:31:23.138Z"
             }
           ]
         }

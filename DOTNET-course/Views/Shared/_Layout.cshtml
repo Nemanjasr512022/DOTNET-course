@@ -35,16 +35,18 @@
                             <a class="nav-link text-light" asp-area="Admin" asp-controller="Category" asp-action="Index" style="color: bisque">Category</a>
                         </li> *@
                         @if(User.IsInRole(SD.Role_Admin)){
-                        <li class="nav-item dropdown" style="color: bisque">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: bisque">
+                            <li class="nav-item dropdown text-light">
+                            <a class="nav-link dropdown-toggle text-light" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: bisque">
                                 Content Managment
                             </a>
-                            <ul class="dropdown-menu">
+                            <ul class="dropdown-menu text-light">
                                 <li><a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a></li>
                                 <li><hr class="dropdown-divider"></li>
                                 <li><a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a></li>
                                     <li><hr class="dropdown-divider"></li>
                                     <li><a class="dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">Companies</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" asp-area="Admin" asp-controller="Order" asp-action="Index">Orders</a></li>
                                     <li><hr class="dropdown-divider"></li>
 
                             </ul>
@@ -57,12 +59,14 @@
                             }
 
                         <li class="nav-item">
-                            <a class="nav-link" asp-area="Customer" asp-controller="Cart" asp-action="Index">
-                                <i class="bi bi-cart"></i> &nbsp; (0)
+                            <a class="nav-link text-light" asp-area="Customer" asp-controller="Cart" asp-action="Index">
+                                <i class="bi bi-bag-fill"></i>Cart
                             </a>
                         </li>
+                        <div class="d-flex justify-content-end">
+                            <partial name="_LoginPartial"></partial>
+                        </div>
 
-                        <partial name="_LoginPartial" ></partial>
                     </ul>
                 </div>
             </div>
@@ -75,9 +79,9 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-light bg-dark">
+    <footer class="border-top footer text-light bg-dark" >
         <div class="container">
-            &copy; 2025 - DOTNET_course - <a class="text-light text-decoration-none" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - DOTNET_course - <a class="text-light text-decoration-none" asp-area="" asp-controller="Home" asp-action="Privacy">Privacyy</a>
         </div>
     </footer>
 

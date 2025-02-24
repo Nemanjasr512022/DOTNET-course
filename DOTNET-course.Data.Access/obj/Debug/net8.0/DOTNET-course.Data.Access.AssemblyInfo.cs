@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOTNET-course.Data.Access")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9019675be505159a17e4d71cdd7123d82cfb3e4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae67fb3f7716e7f68b939f4db72b36bc1dddbbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOTNET-course.Data.Access")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOTNET-course.Data.Access")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
