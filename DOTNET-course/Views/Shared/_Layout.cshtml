@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using DOTNET_course.Utility
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -9,6 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="//cdn.datatables.net/1.13.3/css/jquery.dataTables.min.css" />
 
 </head>
 <body>
@@ -23,15 +26,15 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-light"  asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-light" asp-area="Customer" asp-controller="Home" asp-action="Index" style="color: bisque">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-light" asp-controller="Home" asp-action="Privacy" style="color: bisque">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
-                        </li>
-                        
+                        @* <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="Admin" asp-controller="Category" asp-action="Index" style="color: bisque">Category</a>
+                        </li> *@
+                        @if(User.IsInRole(SD.Role_Admin)){
                         <li class="nav-item dropdown" style="color: bisque">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: bisque">
                                 Content Managment
@@ -39,9 +42,11 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a></li>
                                 <li><hr class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li><hr class="dropdown-divider"></li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                <li><a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li><a class="dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">Companies</a></li>
+                                    <li><hr class="dropdown-divider"></li>
+
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -49,12 +54,15 @@
                                 you got   <i class="bi bi-0-circle"></i> bitches
                             </a>
                         </li>
+                            }
+
+                        <partial name="_LoginPartial" ></partial>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
+    <div class="container  mb-3 pb-3" style="min-height:100vh">
         <main role="main" class="pb-3">
             <partial name="_Notification"/>
             @RenderBody()
@@ -66,9 +74,13 @@
             &copy; 2025 - DOTNET_course - <a class="text-light text-decoration-none" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="//cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js" asp-append-version="true"></script>
+    <script src="https://cdn.tiny.cloud/1/g28lhnxtlihu4l4a381gw7tz47voznshwbi10lmsvlekrfme/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

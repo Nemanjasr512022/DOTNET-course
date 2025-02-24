@@ -1,0 +1,13 @@
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\bin\Debug\net8.0\DOTNET-course.Utility.deps.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\bin\Debug\net8.0\DOTNET-course.Utility.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\bin\Debug\net8.0\DOTNET-course.Utility.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.AssemblyInfoInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.AssemblyInfo.cs
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.csproj.CoreCompileInputs.cache
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.sourcelink.json
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\refint\DOTNET-course.Utility.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.pdb
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\ref\DOTNET-course.Utility.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Utility\obj\Debug\net8.0\DOTNET-course.Utility.csproj.AssemblyReference.cache

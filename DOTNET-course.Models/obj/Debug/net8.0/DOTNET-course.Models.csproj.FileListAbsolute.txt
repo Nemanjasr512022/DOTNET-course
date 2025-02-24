@@ -10,3 +10,4 @@ C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\refint\DOTNET-course.Models.dll
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.pdb
 C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\ref\DOTNET-course.Models.dll
+C:\Users\nluki\source\repos\DOTNET-course\DOTNET-course.Models\obj\Debug\net8.0\DOTNET-course.Models.csproj.AssemblyReference.cache

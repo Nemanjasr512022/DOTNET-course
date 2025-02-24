@@ -1,11 +1,14 @@
 ﻿using DOTNET_course.Data.Access.Data;
 using DOTNET_course.Data.Access.Repository.IRepository;
 using DOTNET_course.Models.Models;
+using DOTNET_course.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DOTNET_course.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

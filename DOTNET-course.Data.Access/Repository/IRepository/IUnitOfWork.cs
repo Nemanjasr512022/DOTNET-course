@@ -9,6 +9,8 @@ namespace DOTNET_course.Data.Access.Repository.IRepository
      public interface IUnitOfWork
      {
         ICategoryRepository CategoryRepository { get; }
+        IProductRepository ProductRepository { get; }
+        ICompanyRepository Company { get; }
         void Save();
      }
 }

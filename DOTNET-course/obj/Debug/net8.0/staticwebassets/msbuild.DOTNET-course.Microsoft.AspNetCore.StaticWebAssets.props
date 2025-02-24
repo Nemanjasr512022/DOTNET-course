@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6h85pft225</Fingerprint>
-      <Integrity>Kl+7rq9p7YZpVP/RUfIUC5C4WTlPQXVPjIoQSQLogCU=</Integrity>
+      <Fingerprint>oks7cw4qa9</Fingerprint>
+      <Integrity>aFhqsQ/dh49t8m467yZxU0xG3CYy2MFzIzRliX9TwjA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -53,6 +53,258 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\102f89f6-2376-497c-8a3e-2c6c4d7bfe0d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/102f89f6-2376-497c-8a3e-2c6c4d7bfe0d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>320qn63fir</Fingerprint>
+      <Integrity>y8GASZdOPYcB6lF+GJceR5t8A/vMKbu4lhgwDivtMIc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\102f89f6-2376-497c-8a3e-2c6c4d7bfe0d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\18e57efa-314e-41b1-8b48-fb908057cbde.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/18e57efa-314e-41b1-8b48-fb908057cbde.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>320qn63fir</Fingerprint>
+      <Integrity>y8GASZdOPYcB6lF+GJceR5t8A/vMKbu4lhgwDivtMIc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\18e57efa-314e-41b1-8b48-fb908057cbde.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\277f1843-2e48-4051-8b90-6c829fe81a07.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/277f1843-2e48-4051-8b90-6c829fe81a07.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>320qn63fir</Fingerprint>
+      <Integrity>y8GASZdOPYcB6lF+GJceR5t8A/vMKbu4lhgwDivtMIc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\277f1843-2e48-4051-8b90-6c829fe81a07.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\568420c9-4d60-4434-9707-878025d9ab2f.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/568420c9-4d60-4434-9707-878025d9ab2f.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nnnxk8ob3f</Fingerprint>
+      <Integrity>A+ryn0dVk+MQYOnzyul/bCKkxulaIcAi26kuFnFLsik=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\568420c9-4d60-4434-9707-878025d9ab2f.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\5b1573ad-fa48-4cbd-8b9b-dfa33671fc27.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/5b1573ad-fa48-4cbd-8b9b-dfa33671fc27.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>320qn63fir</Fingerprint>
+      <Integrity>y8GASZdOPYcB6lF+GJceR5t8A/vMKbu4lhgwDivtMIc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\5b1573ad-fa48-4cbd-8b9b-dfa33671fc27.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\6ae7fbf2-9e93-4fe9-b25d-5da21b0fb728.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/6ae7fbf2-9e93-4fe9-b25d-5da21b0fb728.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2apunyll8x</Fingerprint>
+      <Integrity>eqqAAYe4S489UR3odn+N8Y5/kEYduz4gcX7MjAE/6gg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\6ae7fbf2-9e93-4fe9-b25d-5da21b0fb728.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\745a8aff-b709-4927-8963-03c999462d41.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/745a8aff-b709-4927-8963-03c999462d41.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2xe6ceqvkd</Fingerprint>
+      <Integrity>BnXm4kf1iiBNh4IgZkWGHDFQ8oqSRAee8O+BLd6yxhw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\745a8aff-b709-4927-8963-03c999462d41.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\7863e2cb-d995-4f4f-b53a-f89dcc9f2958.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/7863e2cb-d995-4f4f-b53a-f89dcc9f2958.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>2apunyll8x</Fingerprint>
+      <Integrity>eqqAAYe4S489UR3odn+N8Y5/kEYduz4gcX7MjAE/6gg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\7863e2cb-d995-4f4f-b53a-f89dcc9f2958.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/82bb348f-1e34-48f2-9e80-f785e28c9547.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dr8azbju9f</Fingerprint>
+      <Integrity>2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\82bb348f-1e34-48f2-9e80-f785e28c9547.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\8b5c19d7-baa6-4ae0-aab9-f0a2733de339.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/8b5c19d7-baa6-4ae0-aab9-f0a2733de339.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xdq2pgitoh</Fingerprint>
+      <Integrity>67RKU7tO7T2Kj9dNaXAGL/aHWtF2AgjIVTBkXn8y9jY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\8b5c19d7-baa6-4ae0-aab9-f0a2733de339.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\a9507bf1-8141-4144-83cc-8d3abb1ae7c7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/a9507bf1-8141-4144-83cc-8d3abb1ae7c7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dr8azbju9f</Fingerprint>
+      <Integrity>2Qk8wYS82pd1wDvCbkNEoduGPmW8jzKPPTvu2HoXGVQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\a9507bf1-8141-4144-83cc-8d3abb1ae7c7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\b9fd57e5-ad9c-4031-8ddd-8bd02c8db00d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>images/product/b9fd57e5-ad9c-4031-8ddd-8bd02c8db00d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>sol2be0v6t</Fingerprint>
+      <Integrity>TH1kdmcuI6tAgmPy1r5ntj+0L4pVNVk8Ki9LHGcXSFM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\product\b9fd57e5-ad9c-4031-8ddd-8bd02c8db00d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Company.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>js/Company.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5zknhd1f6k</Fingerprint>
+      <Integrity>8Z6pWxtAq81VY2biyLZ31yzAbagcMVLqVMH6xZB8A9o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Company.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\product.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DOTNET-course</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DOTNET-course</BasePath>
+      <RelativePath>js/product.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jj090x1i5l</Fingerprint>
+      <Integrity>/x7eC/wlLMsY6KWQ8KbVt1d4i6PcUx3ejAic+epNtUw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\product.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
